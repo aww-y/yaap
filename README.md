@@ -30,7 +30,7 @@ sudo apt install mpv cava jp2a python3 python3-pip yt-dlp
 # Clone and Run
 
 ```bash
-git clone https://github.com/SuchDelay/yaap.git
+git clone https://github.com/aww-y/yaap.git
 cd yaap
 python yaap.py
 ```
